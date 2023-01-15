@@ -32,7 +32,7 @@ print("Square root of the number:",newton_method(a))
 ```
 
 ## Output:
-![output](/gcd.PNG.png)
+![output](/Screenshot%202023-01-14%20205912.png)
 
 
 ## Result:
